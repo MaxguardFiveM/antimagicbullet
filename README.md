@@ -10,4 +10,4 @@ Kolay Kurulum: Basit yapılandırma ile hızlı kurulum ve kullanım.
 
 Kurulum
 
-İndirin Ve Resource Kısmına Atın Ve script'i ensure anti-magic-bullet yazın ve artık aktif.
+İndirin Ve Resource Kısmına Atın Ve script'i ensure fivem-anti-magic-bullet yazın ve artık aktif.
